@@ -1,10 +1,8 @@
 ## Olá, me chamo Pedro Pondian!
 
-<div style="display:flex">
+<div align="center">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=pondianxz&theme=midnight-purple&show_icons=true&hide_border=false&count_private=true">
-<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pondianxz&theme=midnight-purple&show_icons=true&hide_border=false&layout=compact">
-
-
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pondianxz&theme=midnight-purple&show_icons=true&hide_border=false&layout=compact">
 </div>
 
 <h3>🖥 Tecnologias que uso </h3>
