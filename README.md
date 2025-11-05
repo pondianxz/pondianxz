@@ -28,4 +28,6 @@
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=7F27F7&section=footer&textBg=false&animation=twinkling">
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=7F27F7&section=footer&textBg=false&animation=twinkling">
