@@ -9,8 +9,8 @@
 <div align="center">
   <img height="200" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pondianxz&theme=midnight_purple">
   <br>
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pondianxz&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact">
-  <img height="200" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=pondianxz&theme=midnight_purple">
+  <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pondianxz&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact">
+  <img width="320" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=pondianxz&theme=midnight_purple">
 </div>
 
 <h3 align="center">🖥 Especializações </h3>
@@ -27,7 +27,13 @@
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
 </div>
+<br>
+<br>
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=pondianxz">
+</div>
+<br>
 <br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=7F27F7&section=footer&textBg=false&animation=twinkling">
